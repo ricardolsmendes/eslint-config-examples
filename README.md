@@ -14,4 +14,4 @@ npm install --save-dev eslint
 npm install --save-dev eslint-config-standard eslint-plugin-standard eslint-plugin-promise eslint-plugin-import eslint-plugin-node
 ```
 
-> **NOTE**: the **-g** option can be used for all `npm install` commands for a global install. In that case, please ommit the **--save-dev** option.
+> **NOTE**: the **-g** option can be used for all `npm install` commands for global install. In that case, please omit the **--save-dev** option.
